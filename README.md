@@ -52,3 +52,15 @@
 ```bash
 git clone https://github.com/darkrider5828/Medical-report-analysis.git
 cd Medical-report-analysis
+
+```
+
+### 2️⃣ Install Dependencies
+pip install -r requirements.txt
+
+### 3️⃣ Add Gemini API Key
+GEMINI_API_KEY=your_google_gemini_key_here
+
+### 4️⃣ Run the App
+python app.py
+Then visit: http://localhost:5000
